@@ -18,9 +18,9 @@ Consiste em continuar a aplicação de gestão de transações financeiras de en
 <li>NodeJS;</li>
 <li>Express;</li>
 <li>uuidv4;</li>
-<li>InSomnia<li>
-<li>TypeORM<li>
-<li>Multer<li>
+<li>InSomnia;<li>
+<li>TypeORM;<li>
+<li>Multer;<li>
 </ul>
 <small></small>
 
